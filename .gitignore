@@ -1,0 +1,8 @@
+venv/
+
+.ipynb_checkpoints/
+
+*.tmp
+*.log
+
+.DS_Store
